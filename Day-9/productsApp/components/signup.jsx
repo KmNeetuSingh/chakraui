@@ -28,7 +28,7 @@ export const Signup = ()=>{
     return (
          <Box>
            <form onSubmit={HandleForm}>
-           <Input ref={username} placeholder='Username' size='md' />
+           <Input ref={username} placeholder='Username' size="md" />
            <Input ref={password} placeholder="password" size="md"/>
            <Input type="submit" />
            </form>
