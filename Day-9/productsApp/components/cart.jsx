@@ -1,7 +1,7 @@
 export const Cart = ()=>{
     return (
         <div>
-            Cart
+            Cart Add
         </div>
     )
 }
